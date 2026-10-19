@@ -49,3 +49,5 @@ task-tracker-api/
 ## What I Learned
 
 Built this project to learn backend fundamentals from scratch, including relational schema design with foreign keys, parameterized queries, implementing JWT auth and bcrypt password hashing manually (not via a pre-built auth library), Express middleware patterns, and deploying a Node/MySQL app to a live host with a separate managed database.
+
+Only 2 commits in this repo since I made the rookie mistake of pushing .env before adding it to .gitignore
