@@ -2,7 +2,6 @@
 
 A RESTful backend API for a task tracking application, built as a learning project to practice Node.js, Express, MySQL, and authentication from scratch.
 
-**Live API:** [Click Here](https://task-tracker-api-fiod.onrender.com/)
 **Frontend repo:** [Click Here](https://github.com/Zuhai55/task_tracker_frontend)
 Live Site: [Click here](https://thesaurus-wistful-abnormal.ngrok-free.dev/)
 
